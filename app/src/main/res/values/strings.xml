@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Drawer Layout</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile\n</string>
+    <string name="more">More</string>
+    <string name="exit">Exit</string>
+</resources>
